@@ -42,3 +42,8 @@ Allocation and Linked Lists: You are to implement functions that require you to 
 Bit Extraction: You are to implement functions that extract bits from an address to index into the cache correctly to determine if you have a hit or a miss, etc.
 
 LRU: You are to implement the core of the least recently used algorithm to determine which cache line to evict when a particular set is full.
+
+# Project 5: Banking Simulator
+ 
+
+# Project 6: String Bot
